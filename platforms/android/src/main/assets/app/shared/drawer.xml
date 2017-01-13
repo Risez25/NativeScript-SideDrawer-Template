@@ -1,0 +1,6 @@
+<GridLayout class="drawer-content">
+  <StackLayout>
+    <Label text="Main Page" tap="navigate" />
+    <Label text="Other Page" tap="navigate" />
+  </StackLayout>
+</GridLayout>

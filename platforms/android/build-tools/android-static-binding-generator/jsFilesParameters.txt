@@ -1,0 +1,3 @@
+C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\src\main\assets\app\main-page.js
+C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\src\main\assets\app\other-page.js
+C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\src\main\assets\app\app.js

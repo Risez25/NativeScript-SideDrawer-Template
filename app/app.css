@@ -1,0 +1,9 @@
+﻿.drawer-content {
+  background-color: #053140;
+  color: white;
+  padding-top: 20;
+}
+.drawer-content Label {
+  font-size: 20;
+  margin: 10 0 15 25;
+}

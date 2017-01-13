@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.1.0_3bc71e906eed54e94895f27e33ec5c7de68d9bed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\Data-2016.3.1118-dev-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="7b14109d2464707646a7e61667b939f3c285f627">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-Data-2016.3.1118-dev-release_697bcaa5f2b846e197eb16d36190f5527e8b849a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.1.0_7f47d512e5eb4c84d0c2c41b06eadd8e5e66af2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.1.0_aa0dd73c2209864e4ba8cc662190db88a56562ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.1.0_adfaac9ac0c17fcc1b32c0cdf6754241a7497aa1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.1.0_3e24227c53d9370b49e71bba0ec7d6e76a92c6ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.1.0_8e1895f56f9690627a5b4af321c49d0694371dbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\sideDrawer\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="fea98d375ec6edba3b9192dfecb16864c8c1fb10">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_6c18f372532121ff390799c2c2b71ed0c3db61a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.1.0_7cc67d3253fbf95d94da432aa8b0aad4bc7c0798.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.1.0_43aff9fdf8ed3e8efbb1e4489c5f77eb38a5ba37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\sideDrawer\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="791326bdf152dc35a200aea2938d5e5f2af0c81a">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\sideDrawer-runtime-unspecified_6e9e3c2c7ff74096b5c12701603d4b071b00784f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.1.0_8ac2073eee73d12277c8713db90c9abfe3a55c85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.1.0_0d30d175dace99ddc9ef456cc2f02e330ed7ddbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.1.0_df6f669a854ac1b9ea97652b6f99cf767e6c2ccf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\Common-2016.3.1118-dev-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="8763df494a4176b8d7acedbf60ebc9b5483f6629">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-Common-2016.3.1118-dev-release_8ca426a485296da475e81e747ccb869bebb10693.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.1.0_9602f9bb1933b9d447b700012d16b1f1687b1d91.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.1.0_a20f2282cb00861239a2ebf312f5873fdf937d0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\Primitives-2016.3.1118-dev-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="acf956a9e525bfe0596e189d99c0e59a41c0f525">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-Primitives-2016.3.1118-dev-release_76ceb40ae54f9dbdecf1430a94224afc7a913802.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="9eec987a0056adc79d607b32e7e1c41997a434a7">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_239e66c057ad0062547134606f62b7d663fadb18.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\exploded-aar\List-2016.3.1118-dev-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a1733921f8567f06df140d8a53a802669b62bb16">
+        <dex dex="C:\Users\Hafiz\Desktop\NativeScriptApp\sideDrawer\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-List-2016.3.1118-dev-release_0d6b0a0abc79e76766bc84a7dc76d7b81b79d725.jar" />
+    </item>
+
+</items>
